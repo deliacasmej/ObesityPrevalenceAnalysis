@@ -1,4 +1,4 @@
-#DELIA CASTREJON, AGATA SOLTYS, ALEJANDRO TREJO
+#D.CASTREJON, A.SOLTYS, A.TREJO
 #SUMMER DATA CAMP NEIU 2024
 
 
@@ -234,7 +234,7 @@ ggplot(data1, aes(x = Hispanic+food_access+poverty+inactivity, y = Obesity_Preva
 
 #ALL STATES
 #creating new map and data variables
-shape2 <-"C:/Users/delia/OneDrive/Desktop/Project_DCASAT/county/county.shp"
+shape2 <-"C:..../county.shp"
 us <- st_read(shape2)
 data2 <- data
 
