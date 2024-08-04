@@ -1,11 +1,11 @@
+#this code is used to merge all our datasets together
+
 import pandas as pd
 
 food = pd.read_csv('FoodAccess19IL.csv')
 obesity = pd.read_csv('Ob19.csv')
 poverty = pd.read_csv('PovertyIL19.csv')
 rate = pd.read_csv('URateIL19.csv')
-
-
 
 
 
