@@ -4,6 +4,7 @@
 
 
 ##### ~~~~PLEASE DON'T REMOVE LEADING ZEROS FROM .CSV~~~~~~ ####
+## May need to add to github file in GeoID section
 #Access to file 
 #setwd("C:/Users/...")
 #getwd()
